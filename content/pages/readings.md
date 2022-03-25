@@ -129,7 +129,7 @@ Eisen, et al. "Cluster Analysis and Display of Genome-wide Expression Patterns."
 
 Liao, et al. "Network Component Analysis: Reconstruction of Regulatory Signals in Biological Systems." _PNAS_ 100, no. 26 (2003).
 
-Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, University of Toronto, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/5604/264b7e470c87dbb19be713a1c9bce2852b5c.pdf))
+Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, University of Toronto, 2004. ([PDF](https://pdfs.semanticscholar.org/5604/264b7e470c87dbb19be713a1c9bce2852b5c.pdf))
 
 
 {{< tdclose >}}
