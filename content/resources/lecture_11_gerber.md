@@ -9,6 +9,7 @@ description: 'This resource contains class notes from the guest lecture by Georg
   Details, Results for the Fkh1/2 Knockout.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-90j-computational-functional-genomics-spring-2005/258d5e347f6960c6cb7d97cbcb54e8ae_lecture_11_gerber.pdf
 file_type: application/pdf
+parent_uid: 8e422c8f-7248-ab9d-9c08-c848e8f61f13
 resourcetype: Document
 title: lecture_11_gerber.pdf
 uid: 258d5e34-7f69-60c6-cb7d-97cbcb54e8ae

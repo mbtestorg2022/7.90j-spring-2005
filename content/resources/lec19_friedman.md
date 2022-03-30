@@ -6,6 +6,7 @@ description: 'This resource covers approaches for getting the biological insight
   our model?, Protein-protein interactions, etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-90j-computational-functional-genomics-spring-2005/55753016e87a0bf4812447539e546d08_lec19_friedman.pdf
 file_type: application/pdf
+parent_uid: 8e422c8f-7248-ab9d-9c08-c848e8f61f13
 resourcetype: Document
 title: lec19_friedman.pdf
 uid: 55753016-e87a-0bf4-8124-47539e546d08

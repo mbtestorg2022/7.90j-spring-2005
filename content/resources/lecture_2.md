@@ -7,6 +7,7 @@ description: 'This resource covers: Pairwise Alignment, Dot Plots, Two possible 
   Trees, etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-90j-computational-functional-genomics-spring-2005/89b3b48dc4dcf04b45301fe925ecfcd8_lecture_2.pdf
 file_type: application/pdf
+parent_uid: 8e422c8f-7248-ab9d-9c08-c848e8f61f13
 resourcetype: Document
 title: lecture_2.pdf
 uid: 89b3b48d-c4dc-f04b-4530-1fe925ecfcd8
